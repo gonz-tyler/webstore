@@ -1,10 +1,14 @@
+// app/layout.tsx
+
 import React from 'react';
-import Header from './components/Hero';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
+import Header from '../components/Hero';
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 import './globals.css';  // Ensure your global styles are imported
-import "bootstrap-icons/font/bootstrap-icons.css";
+import "bootstrap-icons/font/bootstrap-icons.css"
 import { CartProvider } from '../app/context/CartContext';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 
 import type { Metadata } from 'next'
 

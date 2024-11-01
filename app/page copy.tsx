@@ -1,9 +1,9 @@
 import React from 'react';
-import HeroSection from './components/Hero';
-import ContactForm from './components/ContactForm';
+import HeroSection from '../components/Hero';
+import ContactForm from '../components/ContactForm';
 import Head from 'next/head';
-import AboutSection from './components/About';
-import FeaturedSection from './components/Featured';
+import AboutSection from '../components/About';
+import FeaturedSection from '../components/Featured';
 
 
 const Home = () => {

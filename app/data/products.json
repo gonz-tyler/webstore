@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": "Honeycomb Crisp",
+    "slug": "honeycomb-crisp",
+    "price": 16.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-1.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Flake",
+    "slug": "chocolate-flake",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-2.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 3,
+    "name": "Raspberry Fresh",
+    "slug": "raspberry-fresh",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-3.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 4,
+    "name": "Rainbow Road",
+    "slug": "rainbow-road",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-4.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 5,
+    "name": "Fruity Punch",
+    "slug": "fruity-punch",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-5.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 6,
+    "name": "Berry Tart",
+    "slug": "berry-tart",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-6.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 7,
+    "name": "Velvet Love",
+    "slug": "velvet-love",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-7.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 8,
+    "name": "Date Deluxe",
+    "slug": "date-deluxe",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-8.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 9,
+    "name": "Fairy Cake",
+    "slug": "fairy-cake",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-9.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Classic",
+    "slug": "chocolate-classic",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-10.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 11,
+    "name": "Cherry Kiss",
+    "slug": "cherry-kiss",
+    "price": 15.99,
+    "description": "Delicious chocolate cake with rich chocolate frosting.",
+    "image": "/images/products/product-11.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 12,
+    "name": "Red Velvet",
+    "slug": "red-velvet",
+    "price": 15.99,
+    "description": "Delicious vanilla cupcake with buttercream frosting.",
+    "image": "/images/products/product-12.jpg",
+    "discount": 0,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 13,
+    "name": "Red Velvet test1",
+    "slug": "red-velvet-test1",
+    "price": 15.99,
+    "description": "Delicious vanilla cupcake with buttercream frosting.",
+    "image": "/images/products/product-12.jpg",
+    "discount": 0,
+    "banner": "NEW",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 14,
+    "name": "Red Velvet test2",
+    "slug": "red-velvet-test2",
+    "price": 15.99,
+    "description": "Delicious vanilla cupcake with buttercream frosting.",
+    "image": "/images/products/product-12.jpg",
+    "discount": 20,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 15,
+    "name": "Red Velvet test3",
+    "slug": "red-velvet-test3",
+    "price": 15.99,
+    "description": "Delicious vanilla cupcake with buttercream frosting.",
+    "image": "/images/products/product-12.jpg",
+    "discount": 30,
+    "banner": "BESTSELLER",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": []
+  },
+  {
+    "id": 16,
+    "name": "Red Velvet test4",
+    "slug": "red-velvet-test4",
+    "price": 15.99,
+    "description": "Delicious vanilla cupcake with buttercream frosting.",
+    "image": "/images/products/product-12.jpg",
+    "discount": 10,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": [
+      "gluten",
+      "dairy"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Red Velvet test5",
+    "slug": "red-velvet-test5",
+    "price": 15.99,
+    "description": "Delicious vanilla cupcake with buttercream frosting.",
+    "image": "/images/products/product-12.jpg",
+    "discount": 50,
+    "banner": "",
+    "longDescription": "Indulge in the ultimate treat with our Deliciously Decadent Cupcake, where every bite is a celebration of flavor and texture. Our moist, buttery cake is expertly baked to a golden perfection, offering a delicate crumb that's both light and satisfying. Each cupcake is generously topped with a rich, velvety frosting that melts in your mouth, adorned with a sprinkle of handcrafted garnishes that add a touch of elegance and sweetness. Whether you choose classic Vanilla Bean, luscious Chocolate Ganache, or zesty Lemon Cream, our cupcakes are crafted with the finest ingredients to deliver an irresistible taste experience. Perfect for any occasion or as a delightful everyday indulgence, our cupcakes are sure to bring a smile to your face and joy to your palate.",
+    "allergens": [
+      "eggs"
+    ]
+  }
+]
